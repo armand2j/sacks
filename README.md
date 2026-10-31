@@ -1,9 +1,3 @@
 # sacks
-
-## Setup
-
-For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+Shulker Boxes, now renamed to Sacks, can be crafted with 8 leather and easily obtained in early-game.
+The goal of this mod is to make the annoying early-game inventory management phase less tedious. 
