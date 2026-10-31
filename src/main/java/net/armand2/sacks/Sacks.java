@@ -1,5 +1,6 @@
 package net.armand2.sacks;
 
+import net.armand2.sacks.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
 import net.minecraft.resources.Identifier;
