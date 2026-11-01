@@ -22,9 +22,10 @@ public class ModRecipeProvider extends FabricRecipeProvider {
             public void buildRecipes() {
                 shaped(RecipeCategory.MISC, Items.DYED_SHULKER_BOX.brown())
                         .pattern("LLL")
-                        .pattern("L L")
+                        .pattern("LCL")
                         .pattern("LLL")
                         .define('L', Items.LEATHER)
+                        .define('C', Items.CHEST)
                         .unlockedBy(getHasName(Items.LEATHER), has(Items.LEATHER))
                         .group("misc")
                         .save(output);

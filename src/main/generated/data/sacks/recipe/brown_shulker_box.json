@@ -2,11 +2,12 @@
   "type": "minecraft:crafting_shaped",
   "group": "misc",
   "key": {
+    "C": "minecraft:chest",
     "L": "minecraft:leather"
   },
   "pattern": [
     "LLL",
-    "L L",
+    "LCL",
     "LLL"
   ],
   "result": {
